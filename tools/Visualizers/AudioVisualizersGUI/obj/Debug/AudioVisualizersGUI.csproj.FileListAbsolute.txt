@@ -1,0 +1,15 @@
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\bin\Debug\AudioVisualizersGUI.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\bin\Debug\AudioVisualizersGUI.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.csprojAssemblyReference.cache
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\WaveformPresenter.g.cs
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI_MarkupCompile.cache
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI_MarkupCompile.lref
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\WaveformPresenter.baml
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.g.resources
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.csproj.CoreCompileInputs.cache
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\bin\Debug\Items.exe
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\bin\Debug\Items.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\bin\Debug\Items.exe.config
+E:\Repos\AudioProcessing\tools\Visualizers\AudioVisualizersGUI\obj\Debug\AudioVisualizersGUI.csproj.CopyComplete

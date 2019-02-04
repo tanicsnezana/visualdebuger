@@ -1,0 +1,13 @@
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\AudioDebugVisualizers.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\AudioDebugVisualizers.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\AudioVisualizersGUI.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\AudioVisualizersGUI.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\obj\Debug\AudioDebugVisualizers.csprojAssemblyReference.cache
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\obj\Debug\AudioDebugVisualizers.csproj.CoreCompileInputs.cache
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\obj\Debug\AudioDebugVisualizers.csproj.CopyComplete
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\obj\Debug\AudioDebugVisualizers.dll
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\obj\Debug\AudioDebugVisualizers.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\Items.exe
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\Items.pdb
+E:\Repos\AudioProcessing\tools\Visualizers\AudioDebugVisualizers\bin\Debug\Items.exe.config

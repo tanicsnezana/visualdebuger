@@ -1,0 +1,2 @@
+D:\Visualizer\visualdebuger\tools\Visualizers\AudioDebugVisualizers\obj\Debug\FunctionsDebugVisualizers.csprojResolveAssemblyReference.cache
+D:\Visualizer\visualdebuger\tools\Visualizers\AudioDebugVisualizers\obj\Debug\FunctionsDebugVisualizers.csproj.CoreCompileInputs.cache
